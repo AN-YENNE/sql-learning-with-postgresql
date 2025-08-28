@@ -1,1 +1,1 @@
-SQL fundamentals with examples
+Learning SQL fundamentals with examples, using postgreSQL RDBMS
