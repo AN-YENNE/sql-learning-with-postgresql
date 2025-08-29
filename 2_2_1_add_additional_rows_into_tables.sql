@@ -43,3 +43,5 @@ VALUES
 
 -- Find all orders with missing delivery timestamps
 SELECT * FROM orders WHERE deliver_timestamp IS NULL;
+
+
